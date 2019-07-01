@@ -1,0 +1,15 @@
+{
+	"name": "nodecc",
+	"version": "1.0.0",
+	"description": "node cc",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "sujit",
+	"license": "ISC",
+	"dependencies": {
+		"nodemon": "^1.19.1",
+		"uuid": "^3.3.2"
+	}
+}
